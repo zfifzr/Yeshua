@@ -15,7 +15,7 @@ Me chamo Samuel Rosa, tenho 17 anos e moro Santa maria - RS. Atualmente Curso TÃ
 
 ### Connect with me!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=samuelrosadev@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zf_sak7/)
 <h3 align="left">My Stack ~</h3>
 
 <img 
