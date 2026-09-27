@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9Добро пожаловать в мой профиль!%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
 #
 
 Me chamo Samuel Rosa, tenho 17 anos e moro Santa maria - RS. Atualmente Curso Técnico em informática. Sou apaixonado por Cybersecurity, e curioso sobre o TempleOS.
